@@ -1,0 +1,24 @@
+_repo: Mail-Carrying-Railways-Underpaid_52244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Committee on Railway Mail Pay
+    alias: Pay, Committee on Railway Mail
+    gutenberg_agent_id: '46742'
+    url: http://www.gutenberg.org/2009/agents/46742
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52244'
+  lccn: '12029055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HE'
+- !lcsh 'Railway mail service -- United States'
+- GITenberg
+title: Mail Carrying Railways Underpaid
+url: http://www.gutenberg.org/ebooks/52244
